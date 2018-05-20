@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "717541743458",
+    "firebase_url": "https://ones-4256d.firebaseio.com",
+    "project_id": "ones-4256d",
+    "storage_bucket": "ones-4256d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717541743458:android:cea2a30d1d30d371",
+        "android_client_info": {
+          "package_name": "com.example.lindsey.onesmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717541743458-h8tgr48u8gvijps30sh2l8kn0vro7ko2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83xLuX5D5okKRQXO2JsaHWmA_7rX9zYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717541743458:android:ec763b7d314787ec",
+        "android_client_info": {
+          "package_name": "edu.csueastbay.horizon.lucifer.ones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717541743458-efaneqkfmdnphpeqlub7qkhe2ig6fukg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.csueastbay.horizon.lucifer.ones",
+            "certificate_hash": "c4321cbf8ecbc5de040a8bd28180d7a319ded4d2"
+          }
+        },
+        {
+          "client_id": "717541743458-2rf6g7n7sccpica86dgp0sh8oahuqf2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.csueastbay.horizon.lucifer.ones",
+            "certificate_hash": "075f0b6175e21468141ee5ea22d559c6bebf79d5"
+          }
+        },
+        {
+          "client_id": "717541743458-h8tgr48u8gvijps30sh2l8kn0vro7ko2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83xLuX5D5okKRQXO2JsaHWmA_7rX9zYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717541743458-h8tgr48u8gvijps30sh2l8kn0vro7ko2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
