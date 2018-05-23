@@ -66,8 +66,8 @@ dependencies {
             coroutines "enable"
         }
     }
-    androidExtensions{
-        experimental =true
+    androidExtensions {
+        experimental = true
     }
 
 }
